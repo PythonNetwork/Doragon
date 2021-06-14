@@ -12,7 +12,8 @@
 - [ ] warn
 - [ ] unwarn
 - [ ] nowarns
-- [ ] permit
+- [ ] permit (permit ads, logic has to change)
+- [ ] unpermit (unpermit ads, if admins change their minds)
 - [ ] ban
 - [ ] unban
 - [ ] addcommand <name>
