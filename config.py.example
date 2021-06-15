@@ -1,0 +1,23 @@
+# Create a config file by 
+#
+#
+# 
+config = {
+    # type: string
+    # Telegram bot token from @BotFather
+    "token": "",
+
+    # type: string | int
+    # ID or username of the master,
+    # the people who can promote and demote admins,
+    # or manage the bot.
+    "masters": [],
+
+    "chats": {
+        # type: number | bool [False]
+        # chat to send report notifications to.
+        # Pass false to disable this feature.
+        "report": False
+    },
+    
+}

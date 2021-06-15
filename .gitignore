@@ -58,6 +58,15 @@ coverage.xml
 *.mo
 *.pot
 
+.userdata
+.env
+__pycache__
+logs/*
+.db
+venv
+.vscode
+.idea
+
 # Django stuff:
 *.log
 local_settings.py
